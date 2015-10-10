@@ -48,5 +48,7 @@ group :development, :test do
 
   gem 'devise'
 
+  gem 'cancan'
+
 end
 
