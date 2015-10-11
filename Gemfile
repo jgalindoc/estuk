@@ -54,5 +54,7 @@ group :development, :test do
 
   gem 'dotenv-rails', groups: [:development]
 
+  gem 'friendly_id'
+
 end
 
